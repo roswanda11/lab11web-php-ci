@@ -16,6 +16,8 @@
   </tr>
 </table>
 
+# <p align="center">Praktikum 6: AJAX</p>
+
 # Langkah-langkah Praktikum
 
 ### Persiapan
